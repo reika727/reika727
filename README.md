@@ -2,6 +2,8 @@
 
 ### :bread:ABOUT ME:bread:
 
+### :bar_chart:MY STATS:bar_chart:
+
 <p align="left"> 
   <img alt="Top Langs" height="175" src="https://github-readme-stats.vercel.app/api?username=reika727&show_icons=true" />
   <img alt="github stats" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reika727&layout=compact" />
