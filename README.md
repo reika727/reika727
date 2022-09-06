@@ -4,6 +4,10 @@
 
 ### :bar_chart:MY STATS:bar_chart:
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/reika727/posts.svg)](http://qiita.com/reika727)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/reika727/contributions.svg)](http://qiita.com/reika727)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/reika727/followers.svg)](http://qiita.com/reika727)
+
 <p align="left"> 
   <img alt="Top Langs" height="175" src="https://github-readme-stats.vercel.app/api?username=reika727&show_icons=true" />
   <img alt="github stats" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reika727&layout=compact" />
