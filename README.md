@@ -2,10 +2,13 @@
   Hi 👋, I'm Kasuya Rei!
 </h1>
 <h3 align="center">
-  Bachelor of Computer Sciense
+  :trophy:MY ACHIEVEMENTS:trophy:
 </h3>
-
-[![](https://github-profile-trophy.vercel.app/?username=reika727&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=reika727&column=-1" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **LLVM**
 
