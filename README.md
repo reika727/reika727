@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **reikasuya727@gmail.com**
 
-### Blogs posts
+### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [古ヘブライ語による「神のプログラミング言語」Genesis](https://qiita.com/reika727/items/1544f557a63b7768c444)
@@ -73,6 +73,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
+### Stats:
 
 <p align="left">
   <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=reika727&show_icons=true&layout=compact" />
