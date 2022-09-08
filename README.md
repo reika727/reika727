@@ -28,10 +28,10 @@
   <a href="https://twitter.com/reik727" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reik727" height="30" width="40" />
   </a>
-  <a href="https://codepen.io/https://codepen.io/reika727" target="_blank">
+  <a href="https://codepen.io/reika727" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/reika727" height="30" width="40" />
   </a>
-  <a href="/https://qiita.com/reika727/feed" target="_blank">
+  <a href="https://qiita.com/reika727/feed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://qiita.com/reika727/feed" height="30" width="40" />
   </a>
 </p>
