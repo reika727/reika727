@@ -19,10 +19,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [世界地図がどれだけ歪んでいるか実感する](https://qiita.com/reika727/items/e9853e69ff307a1ae691)
 - [ほんとうに「ゼロから」理解する P ≠ NP 問題](https://qiita.com/reika727/items/de2d345d352f951e8924)
 - [機械語を「直打ち」して Hello, World!](https://qiita.com/reika727/items/23bd5367e13114f6705c)
 - [古ヘブライ語による「神のプログラミング言語」Genesis](https://qiita.com/reika727/items/1544f557a63b7768c444)
-- [1/fゆらぎで癒されたい](https://qiita.com/reika727/items/ecdecba39739ee0ea2d1)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
