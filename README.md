@@ -19,10 +19,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [自然な「グロンギ語」を音声合成 / ギゼンバ「グロンギゴ」ゾゴンゲギゴグゲギ](https://qiita.com/reika727/items/82cd726119122a26a290)
 - [数学的に正しい&quot;2.5次元&quot;](https://qiita.com/reika727/items/4e4248c0c0d920452b9c)
 - [世界地図がどれだけ歪んでいるか実感する](https://qiita.com/reika727/items/e9853e69ff307a1ae691)
 - [ほんとうに「ゼロから」理解する P ≠ NP 問題](https://qiita.com/reika727/items/de2d345d352f951e8924)
-- [機械語を「直打ち」して Hello, World!](https://qiita.com/reika727/items/23bd5367e13114f6705c)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
