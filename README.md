@@ -19,10 +19,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [さわって動かせる「エニグマ」公開してみた](https://qiita.com/reika727/items/cbe11cc66b6d17d75126)
 - [GNU C ライブラリのジョーク（？）関数 &quot;memfrob&quot;](https://qiita.com/reika727/items/0b7c8a4257ff78855b21)
 - [自然な「グロンギ語」を音声合成 / ギゼンバ「グロンギゴ」ゾゴンゲギゴグゲギ](https://qiita.com/reika727/items/82cd726119122a26a290)
 - [数学的に正しい&quot;2.5次元&quot;](https://qiita.com/reika727/items/4e4248c0c0d920452b9c)
-- [世界地図がどれだけ歪んでいるか実感する](https://qiita.com/reika727/items/e9853e69ff307a1ae691)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
