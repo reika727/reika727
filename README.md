@@ -19,10 +19,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [難解言語 Malbolge は HelloWorld に「2 年」かかった](https://qiita.com/reika727/items/1e5f4fb54916c6fed483)
 - [悪名高きスクロール妨害広告を解析する](https://qiita.com/reika727/items/5a3cbdd211f79f82fdd5)
 - [※悪用厳禁※ドラマ「トリリオンゲーム」で監視カメラをハッキングした方法](https://qiita.com/reika727/items/b6e3bb30d13ad5b83231)
 - [AtCoder をやるときはスタックサイズを調整しとけ](https://qiita.com/reika727/items/8fa6f5944b183c0a28f9)
-- [「究極」の関数型言語 &quot;Iota&quot; を知っているか](https://qiita.com/reika727/items/61ec7889f2a238112772)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
