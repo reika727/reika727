@@ -19,10 +19,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [0 と 0 の最大公約数は何であるべきか？](https://qiita.com/reika727/items/9c317bf562b5df966cbf)
 - [信じられないソートアルゴリズム &quot;ICan&#39;tBelieveItCanSort&quot;](https://qiita.com/reika727/items/953beeae8caae711b543)
 - [難解言語 Malbolge は HelloWorld に「2 年」かかった](https://qiita.com/reika727/items/1e5f4fb54916c6fed483)
 - [悪名高きスクロール妨害広告を解析する](https://qiita.com/reika727/items/5a3cbdd211f79f82fdd5)
-- [※悪用厳禁※ドラマ「トリリオンゲーム」で監視カメラをハッキングした方法](https://qiita.com/reika727/items/b6e3bb30d13ad5b83231)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
