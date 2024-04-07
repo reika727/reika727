@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **LLVM**
+- 🌱 I’m currently learning **web application security**
 
 - 📝 I regularly write articles on [https://qiita.com/reika727](https://qiita.com/reika727)
 
