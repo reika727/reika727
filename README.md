@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Kasuya Rei!
+  Hi 👋, I'm KASUYA Rei!
 </h1>
 <h3 align="center">
   :trophy:MY ACHIEVEMENTS:trophy:
