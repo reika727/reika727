@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 📝 I regularly write articles on [https://qiita.com/reika727](https://qiita.com/reika727) (Sorry Japanese only)
+- 📝 I regularly write articles on [Qiita](https://qiita.com/reika727) (Sorry Japanese only)
 
 - 📫 How to reach me **reikasuya727@gmail.com**
 
