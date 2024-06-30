@@ -1,6 +1,9 @@
 <h1 align="center">
   Hi 👋, I'm KASUYA Rei!
 </h1>
+
+![](https://komarev.com/ghpvc/?username=reika727)
+
 <h3 align="center">
   :trophy:MY ACHIEVEMENTS:trophy:
 </h3>
