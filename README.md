@@ -22,10 +22,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [アッカーマン関数のなにがそんなにすごいのか](https://qiita.com/reika727/items/b0b2e5c496644c56f0f8)
 - [MS-DOS 4.0 がオープンソースになったのでビルドしてみる](https://qiita.com/reika727/items/32a74226aea427044b41)
 - [【ゲーム理論】完璧な選挙は存在しない？独裁制は正しい？？「アローの不可能性定理」](https://qiita.com/reika727/items/fb0f33d7d9c29cb7cd58)
 - [0 と 0 の最大公約数は何であるべきか？](https://qiita.com/reika727/items/9c317bf562b5df966cbf)
-- [信じられないソートアルゴリズム &quot;ICan&#39;tBelieveItCanSort&quot;](https://qiita.com/reika727/items/953beeae8caae711b543)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
