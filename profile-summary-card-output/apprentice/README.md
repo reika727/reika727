@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/reika727/reika727/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)
-```
-
-    
